@@ -1,0 +1,5 @@
+,BaseDamage,FireMode,FireRate,CooldownTime,PointBlankRange,EffectiveRange,Dispersion,ReloadSpeed,AmmoType,ReticleIcon,DamageType
+SMG,5,Full,0.08,0,10,150,0.7,0.1,SMG,SMG,Physical
+Rifle,20,Semi,0,0,15,300,0.3,0.3,RIF,RIF,Physical
+Sniper,50,Manual,1,0.8,30,1000,0,1,SNI,SNI,Physical
+Shotgun,15,Semi,0,0.3,10,100,0,0.8,SHOT,SHOT,Physical
